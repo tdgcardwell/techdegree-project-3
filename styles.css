@@ -95,6 +95,13 @@ header .profile-image:hover {
   background-color: #222;
   color: goldenrod;
 }
+
+.info {
+background-color: #efefef;
+border-bottom: 1px dotted #ccc;
+
+}
+
 .card {
   margin: 30px;
   padding: 20px 40px 40px;
