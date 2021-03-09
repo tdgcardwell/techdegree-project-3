@@ -28,7 +28,7 @@ a:hover {
 
 /* Section Styles */
 
-.main-nav {
+nav {
   width: 100%;
   background: #333;
   min-height: 30px;
@@ -80,7 +80,8 @@ header .profile-image {
   transition: all .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(1.1) rotate(1deg);
+  border: 3px solid hotpink;
 }
 .tag {
   background-color: #efefef;
