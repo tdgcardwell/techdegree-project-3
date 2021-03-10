@@ -85,9 +85,11 @@ header .profile-image:hover {
 }
 
 .grandfather {
-  width: 150px;
-  height: 150px;
+  width: 130px;
+  height: 130px;
   border-radius: 5px;
+  float: right;
+  margin: 10px;
 }
 
 .tag {
@@ -119,6 +121,7 @@ article {
   border-radius: 6px;
   transition: all .5s;
 }
+
 article:hover {
   border-color: #ff99ff;
 }
