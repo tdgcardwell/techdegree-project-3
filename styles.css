@@ -92,6 +92,11 @@ header .profile-image:hover {
   margin: 10px;
 }
 
+.hwa {
+  display:block;
+  margin: auto;
+}
+
 .tag {
   background-color: #efefef;
   color: black;
